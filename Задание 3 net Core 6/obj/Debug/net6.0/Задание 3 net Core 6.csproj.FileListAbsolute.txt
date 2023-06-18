@@ -1,0 +1,29 @@
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Задание 3 net Core 6.exe
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Задание 3 net Core 6.deps.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Задание 3 net Core 6.runtimeconfig.json
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Задание 3 net Core 6.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Задание 3 net Core 6.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.csproj.CopyComplete
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\refint\Задание 3 net Core 6.dll
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.pdb
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\Задание 3 net Core 6.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\Рабочий стол\УЧЕБА\Производственная практика\Бекенд\Вторые задания\Задание 3 net Core 6\obj\Debug\net6.0\ref\Задание 3 net Core 6.dll
